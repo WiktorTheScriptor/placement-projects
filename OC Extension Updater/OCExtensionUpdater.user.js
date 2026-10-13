@@ -211,9 +211,6 @@
             return;
             // submit redirects back to list page
 
-
-            // here //////////////// @@@@@@@@@@@@@@@@
-
         } else {
             return;
         }
